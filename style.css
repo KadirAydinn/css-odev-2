@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.google{
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.first-container{
+    width: 3300px;
+    height: 120px;
+    margin: auto;
+    background: #EEEEEE;
+    padding-top: 10px;
+    line-height: normal;
+}
+
+.second-container {
+    width: 3300px;
+    height: 200px;
+    margin: 5px auto;
+}
+
+.second-box {
+    background: #7EE5DA;
+    width: 35%;
+    height: 200px;
+    float: left;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+
+.third-box {
+    background: #70CCC2;
+    width: 22%;
+    height: 200px;
+    float: left;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+
+.fourth-box {
+    background: #62B3AA;
+    width: 43%;
+    height: 200px;
+    float: left;
+    font-size: xx-large;
+    padding-top: 20px;
+}
